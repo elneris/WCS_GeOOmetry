@@ -8,4 +8,3 @@ class Square extends Rectangle
         parent::__construct($width, $width);
     }
 }
-
